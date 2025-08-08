@@ -14,7 +14,7 @@ using System;
 		{
 			Console.WriteLine("Par.");
 		}
-		else 
+		else
 		{
 			Console.WriteLine("Impar.");
 		}
